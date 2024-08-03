@@ -23,3 +23,7 @@ Personal practice and notes repo.
 * Basic functions for each data structure
 * **The header file is given to for compilation errors on local machine.**
     * Online compilers use <bits/stdc++>
+
+## Basic Math
+
+* LCM, HCF, Palindrome etc
