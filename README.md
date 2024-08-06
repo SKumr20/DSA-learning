@@ -27,3 +27,7 @@ Personal practice and notes repo.
 ## Basic Math
 
 * LCM, HCF, Palindrome etc
+
+## Basic Recursion
+
+* Facorials, etc.
