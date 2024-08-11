@@ -31,3 +31,9 @@ Personal practice and notes repo.
 ## Basic Recursion
 
 * Facorials, etc.
+
+## Basic Hashing
+
+* Concept of hashing
+* String characters hasing using ASCII concept
+* Hash map
